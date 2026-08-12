@@ -45,9 +45,10 @@ p {
 input {
     display: block;
 
-    width: 90%;
+    width: 100%;
 
     padding: 12px;
+    box-sizing: border-box;
 
     margin: 12px auto;
 
